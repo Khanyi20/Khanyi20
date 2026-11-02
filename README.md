@@ -56,8 +56,8 @@ I'm currently developing my skills through my DV200 projects and exploring how d
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 [![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#)
-![Illustrator]
-![Photoshop]
+Illustrator
+Photoshop
 
 **Framework
 
@@ -145,7 +145,8 @@ These are my main DV200 portfolio projects.
 
 ## 📫 Contact Me
 
-- **Email:** [khanyimanana567@gmail.com]
+- **Email:** khanyimanana567@gmail.com
+- School email: 251301@virtualwindow.co.za
 - 
 - **GitHub:** https://github.com/Khanyi20
 
